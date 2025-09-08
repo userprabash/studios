@@ -6,6 +6,7 @@ import blockContent from './blockContent'
 import testimonial from './testimonial'
 import allBrandsimg from './allBrandsimg'
 import imageLibrary from './imageLibrary'
+import instagramgallery from './instagramgallery'
 export const schemaTypes = [
   product,
   brand,
@@ -14,5 +15,6 @@ export const schemaTypes = [
   testimonial,
   allBrandsimg,
   imageLibrary,
+  instagramgallery,
   blockContent,
 ]
